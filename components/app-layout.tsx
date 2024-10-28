@@ -1,7 +1,7 @@
 'use client'
 
 import { Inter } from 'next/font/google'
-import { ThemeProvider } from "@/components/theme-provider"
+import { ThemeProvider } from "@/components/components-theme-provider"
 
 const inter = Inter({ subsets: ['latin'] })
 
