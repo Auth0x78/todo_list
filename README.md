@@ -63,10 +63,8 @@ A minimal, client-side Todo App built with React, TypeScript, and Next.js, desig
 
 ## Future Enhancements
 
-- [ ] Improve styling with custom themes
 - [ ] Add support for due dates and reminders
 - [ ] Implement categories or tags for todos
-- [ ] Enhance accessibility with ARIA attributes
 - [ ] Add backend for storing todo
 
 ## License
